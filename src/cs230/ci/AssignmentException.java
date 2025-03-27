@@ -4,7 +4,7 @@ public class AssignmentException extends Exception {
 
 	private static final long serialVersionUID = 1;
 
-	/** Supi */
+	/** Supin */
 	public AssignmentException(String message) {
 		super(message);
 	}
